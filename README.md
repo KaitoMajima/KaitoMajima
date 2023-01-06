@@ -20,5 +20,5 @@
 
   <a href="mailto:kaitomajima@outlook.com"><img src="https://img.shields.io/badge/-Contact_Me-0070ff?style=for-the-badge&logo=microsoftoutlook&logoColor=blue%22%20target=%22_blank"></a>
   <a href="https://twitter.com/KaitoMajima" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A50A9?style=for-the-badge&logo=twitter&logoColor=white%22%20target" target="_blank"></a> 
-<a href="https://kaitomajima.itch.io" target="_blank"><img src="https://img.shields.io/badge/-Itch-a70424?style=for-the-badge&logo=itchdotio&logoColor=white%22%20target" target="_blank"></a> 
+<a href="https://kaitomajima.itch.io" target="_blank"><img src="https://img.shields.io/badge/-Itch.io-a70424?style=for-the-badge&logo=itchdotio&logoColor=white%22%20target" target="_blank"></a> 
 <a href="https://kaitomajima.webflow.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white%22%20target=%22_blank"></a>
