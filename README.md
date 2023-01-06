@@ -1,6 +1,6 @@
 ### Hi, my name is Eduardo - I'm a professional Game Developer and Game Designer 😎
 
-<img align="right" alt="Kaito-pic" height="212" style="border-radius:20px;" src="https://avatars.githubusercontent.com/u/68963406?s=400&u=8330bacd623752ddb20c56b2b303b30d2d0933c5&v=4">
+<img align="right" alt="Kaito-pic" height="214" style="border-radius:20px;" src="https://avatars.githubusercontent.com/u/68963406?s=400&u=8330bacd623752ddb20c56b2b303b30d2d0933c5&v=4">
 
 - 🎮 I’m currently working as a Game Developer at **Pixodust Games**.
 - 🔨 I’m currently learning **Programming, Game Design, UI and UX Design, 2D art and animation**. I'm highly knowledgeable with **C# and Unity**.
