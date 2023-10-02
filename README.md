@@ -5,12 +5,14 @@
 - 🎮 I’m currently working as a Game Developer at **Pixodust Games**.
 - 🔨 I’m currently learning **Programming, Game Design, UI and UX Design, 2D art and animation**. I'm highly knowledgeable with **C# and Unity**.
 - 🤝 I’m looking to collaborate on **game jams and personal projects**.
-- 🚀 Always thinking of **going beyond and reinventing myself**.
+- 🚀 Always thinking of **going beyond and reinventing myself**. 
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Kaito-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <a href ="https://media.tenor.com/uquLLcD8M8gAAAAC/unity-strb.gif">
-<img align="center" alt="Kaito-Unity" height="30" width="30" src="https://pbs.twimg.com/profile_images/1448002365794045954/K2PJGKrW_400x400.jpg">  
+<img align="center" alt="Kaito-Unity" height="30" width="30" src="https://github.com/KaitoMajima/KaitoMajima/assets/68963406/2c3d3fff-2bee-47d2-a9ed-095b1e5e6dfa">  
+<img align="center" alt="Kaito-Godot" height="30" width="30" src="https://github.com/KaitoMajima/KaitoMajima/assets/68963406/9a1e033f-b003-4ac7-a608-11e5752d0f57">  
 </a>
 </div>
   
